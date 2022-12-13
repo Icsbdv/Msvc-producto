@@ -62,7 +62,7 @@
 	
 
 	<build>
-		<finalName>Msvc-cuentas-V1.0</finalName>
+		<finalName>msvcproducto-r1-bdv</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

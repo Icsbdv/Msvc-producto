@@ -54,10 +54,6 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
-			<groupId>org.projectlombok</groupId>
-			<artifactId>lombok</artifactId>
-		</dependency>
-		<dependency>
 			<groupId>com.github.ulisesbocchio</groupId>
 			<artifactId>jasypt-spring-boot-starter</artifactId>
 			<version>3.0.3</version>
@@ -67,7 +63,7 @@
 	
 
 	<build>
-		<finalName>msvcproducto-r2-bdv</finalName>
+		<finalName>msvcproducto</finalName>
 		<plugins>
 			<plugin>
 				<groupId>com.github.ulisesbocchio</groupId>
